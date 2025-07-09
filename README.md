@@ -43,24 +43,17 @@ Here are some of the tools and technologies I'm currently using and/or experimen
 
 ### 🎮 A Bit About Me ⤵
 
-- 🕹 Love relaxing with a good video game such as ⚔️ **World of Warcraft** & ⚡️ **League of Legends**.
+- 🕹 I love playing video games such as ⚔️ **World of Warcraft** & ⚡️ **League of Legends**.
 - 🎧 I enjoy listening to music while spending hours writing and debugging code.
 - 🪐 Fascinated by 🌌 **astronomy** and 📜 **history**.
 - 📚 Constantly exploring new topics and technologies.
 
 ---
 
-### 📈 My GitHub Stats ⤵
+### 📈 GitHub Stats ⤵
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PreYem&show_icons=true&theme=tokyonight" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreYem&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
----
-
-<p align="center">
-  <strong>Thanks for stopping by!</strong><br>
-  <em>“Maybe some day they'll make python with semicolons”</em>
 </p>
