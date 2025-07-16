@@ -1,5 +1,5 @@
 <!-- Short Intro -->
-<p align="center"> Oi 🫡! I'm a full stack web developer wi’ a passion for building web applications.<br> I enjoy workin’ on both the front-end an’ back-end, and I’m always excited tae learn an’ try oot new technologies. </p>
+<p align="center"> 🫡 Oi! I'm a full stack web developer wi’ a passion for building web applications.<br> I enjoy workin’ on both the front-end an’ back-end, and I’m always excited tae learn an’ try oot new technologies. </p>
 
 
 ---
