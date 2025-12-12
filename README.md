@@ -51,7 +51,31 @@ Here are some of the tools and technologies I'm currently using and/or experimen
 ### 📈 GitHub Stats ⤵
 
 
+<div align="center">
+  <img 
+    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=PreYem&theme=tokyonight&show_icons=true" 
+    alt="PreYem GitHub Stats"
+    height="180"
+    style="display: inline-block; margin-right: 10px;"
+  />
+</div>
+
+
+---
+
+
+
+
+
 <p align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=PreYem&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=PreYem&layout=compact&theme=tokyonight" height="180em" />
+
+
+  <strong>Thanks for stopping by!</strong><br>
+
+
+  <em>“Maybe some day they'll make python with semicolons”</em>
+
+
 </p>
+
+
