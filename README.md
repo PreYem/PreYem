@@ -52,6 +52,6 @@ Here are some of the tools and technologies I'm currently using and/or experimen
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreYem&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreYem&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=PreYem&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=PreYem&layout=compact&theme=tokyonight" height="180em" />
 </p>
