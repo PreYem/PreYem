@@ -1,13 +1,14 @@
-<!-- Short Intro -->
-<p align="center"> 🫡 Oi! I'm a full stack web developer wi’ a passion for building web applications.<br> I enjoy workin’ on both the front-end an’ back-end, and I’m always excited tae learn an’ try oot new technologies. </p>
-
+<!-- Intro -->
+<p align="center">
+  🫡 Oi! Full stack dev here — I build web apps for fun and (sometimes) profit.<br>
+  I'm comfortable on both ends of the stack and I'm always tinkering with something new.
+</p>
 
 ---
 
-### 💻 Current Tech Stack ⤵
+### 💻 What I Work With ⤵
 
-Here are some of the tools and technologies I'm currently using and/or experimenting with:
-
+The tools I reach for on a daily basis (and a few I'm just playing around with):
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -28,54 +29,62 @@ Here are some of the tools and technologies I'm currently using and/or experimen
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
+
+### ⌛ Down the Rabbit Hole ⤵
+
+- Digging deeper into **Next.js** — there's a lot more to it than I first thought.
+- **React Native** is next on the list, want to stop ignoring mobile.
+- **Java & Spring Boot** at some point — I keep hearing good things.
 
 ---
 
-### ⌛ Currently Learning ⤵
+### 🎮 The Rest of My Time ⤵
 
-- 🧠 Exploring the full power of **Next.js**.
-- 📱 Planning to dive into **React Native** for mobile apps.
-- ☕️ Interested in learning **Java & Spring Boot**.
-
----
-
-### 🎮 A Bit About Me ⤵
-
-- 🕹 I love playing video games such as ⚔️ **World of Warcraft** & ⚡️ **League of Legends**.
-- 🎧 I enjoy listening to music while spending hours writing and debugging code.
-- 🪐 Fascinated by 🌌 **astronomy** and 📜 **history**.
-- 📚 Constantly exploring new topics and technologies.
+- Music on, headphones in — that's just how the code gets written.
+- Big fan of **astronomy** and **history** — the older and weirder the better.
+- Usually have a tab open with something completely unrelated to whatever I should be doing.
 
 ---
 
 ### 📈 GitHub Stats ⤵
 
-
 <div align="center">
-  <img 
-    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=PreYem&theme=tokyonight&show_icons=true" 
-    alt="PreYem GitHub Stats"
-    height="180"
-    style="display: inline-block; margin-right: 10px;"
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PreYem&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+    height="170"
   />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreYem&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    height="170"
+  />
+
 </div>
 
+<div align="center">
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=PreYem&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PreYem&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
+
+</div>
 
 ---
 
-
-
-
-
 <p align="center">
-
-
-  <strong>Thanks for stopping by!</strong><br>
-
-
-  <em>“Maybe some day they'll make python with semicolons”</em>
-
-
+  <strong>Cheers for stopping by.</strong><br>
+  <em>"Maybe some day they'll make Python with semicolons."</em>
 </p>
-
-
