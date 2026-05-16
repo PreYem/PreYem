@@ -50,36 +50,33 @@ The tools I reach for on a daily basis (and a few I'm just playing around with):
 ### 📈 GitHub Stats ⤵
 
 <div align="center">
-
   <img
     src="https://github-readme-stats.vercel.app/api?username=PreYem&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
-    alt="GitHub Stats"
+    alt="Stats & Languages"
     height="170"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreYem&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"
-    alt="Top Languages"
-    height="170"
-  />
-
 </div>
 
 <div align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PreYem&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&count_private=true"
+    alt="Top Languages"
+    height="160"
+  />
+</div>
 
+<div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=PreYem&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
-
 </div>
 
 <div align="center">
-
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=PreYem&theme=tokyo-night&hide_border=true&area=true"
     alt="Contribution Graph"
   />
-
 </div>
 
 ---
