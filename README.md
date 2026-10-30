@@ -1,7 +1,19 @@
-<!-- Intro -->
+<!-- Header -->
 <p align="center">
-  🫡 Oi! Full stack dev here — I build web apps for fun and (sometimes) profit.<br>
-  I'm comfortable on both ends of the stack and I'm always tinkering with something new.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:7aa2f7&height=200&section=header&text=PreYem&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Dev%20%C2%B7%20Local%20LLM%20Tinkerer&descSize=20&descAlignY=60" alt="header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Oi!+Full+stack+dev+here+%F0%9F%AB%A1;I+build+web+apps+for+fun+and+(sometimes)+profit;Now+running+LLMs+on+my+own+hardware+%F0%9F%A7%A0;Always+tinkering+with+something+new" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PreYem&label=Profile+views&color=7aa2f7&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/PreYem?tab=followers"><img src="https://img.shields.io/github/followers/PreYem?style=flat-square&logo=github&color=7aa2f7&labelColor=1a1b26" alt="Followers" /></a>
+</p>
+
+<p align="center">
+  I'm comfortable on both ends of the stack, and lately I've been going down the <b>local AI</b> rabbit hole too.
 </p>
 
 ---
@@ -34,18 +46,36 @@ The tools I reach for on a daily basis (and a few I'm just playing around with):
 
 ---
 
+### 🧠 Local AI Lab ⤵
+
+I like my models running on my own machine: no subscriptions, no data leaving the house, and a lot of benchmarking for the fun of it.
+
+<p align="center">
+  <a href="https://lmstudio.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LM%20Studio-Model%20runner-5B5BD6?style=for-the-badge&labelColor=1a1b26" alt="LM Studio" /></a>
+  <a href="https://github.com/pewdiepie-archdaemon/odysseus" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Odysseus-Self--hosted%20AI%20workspace-e0af68?style=for-the-badge&labelColor=1a1b26" alt="Odysseus" /></a>
+  <img src="https://img.shields.io/badge/Strata-Local%20inference%20engine-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="Strata" />
+</p>
+
+- **LM Studio**: my go-to for trying out models quickly and serving them locally.
+- **Odysseus**: PewDiePie's open-source, self-hosted AI workspace (chat, agents, research), pointed at my own models.
+- **Strata**: squeezing every token per second out of an AMD GPU, one update at a time.
+- Daily use: **coding assistants** running on my own hardware.
+
+---
+
 ### ⌛ Down the Rabbit Hole ⤵
 
-- Digging deeper into **Next.js** — there's a lot more to it than I first thought.
+- Digging deeper into **Next.js**. There's a lot more to it than I first thought.
 - **React Native** is next on the list, want to stop ignoring mobile.
-- **Java & Spring Boot** at some point — I keep hearing good things.
+- **Java & Spring Boot** at some point, I keep hearing good things.
+- Wiring **local LLMs into my own apps** and dev workflow.
 
 ---
 
 ### 🎮 The Rest of My Time ⤵
 
-- Music on, headphones in — that's just how the code gets written.
-- Big fan of **astronomy** and **history** — the older and weirder the better.
+- Music on, headphones in: that's just how the code gets written.
+- Big fan of **astronomy** and **history**. The older and weirder the better.
 - Usually have a tab open with something completely unrelated to whatever I should be doing.
 
 ---
@@ -54,24 +84,28 @@ The tools I reach for on a daily basis (and a few I'm just playing around with):
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=PreYem&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
-    alt="Stats & Languages"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=PreYem&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github"
+    alt="Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PreYem&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&count_private=true"
+    alt="Top Languages"
     height="170"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PreYem&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&count_private=true"
-    alt="Top Languages"
-    height="160"
+    src="https://streak-stats.demolab.com?user=PreYem&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=PreYem&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-profile-trophy.vercel.app/?username=PreYem&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"
+    alt="Trophies"
   />
 </div>
 
@@ -87,4 +121,8 @@ The tools I reach for on a daily basis (and a few I'm just playing around with):
 <p align="center">
   <strong>Cheers for stopping by.</strong><br>
   <em>"Maybe some day they'll make Python with semicolons."</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:7aa2f7&height=100&section=footer" alt="footer" />
 </p>
